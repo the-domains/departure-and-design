@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Path From Nowhere
-datePublished: '2016-04-29T18:36:33.688Z'
-dateModified: '2016-04-29T18:35:56.241Z'
+datePublished: '2016-04-29T18:46:43.880Z'
+dateModified: '2016-04-29T18:46:42.230Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-the-path-from-nowhere.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-the-path-from-nowhere.md
-published: true
 url: the-path-from-nowhere/index.html
 _type: Article
 
