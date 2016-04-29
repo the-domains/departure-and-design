@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Road Once Traveled
-datePublished: '2016-04-29T18:31:03.737Z'
-dateModified: '2016-04-29T18:20:50.986Z'
+datePublished: '2016-04-29T18:55:17.139Z'
+dateModified: '2016-04-29T18:51:29.633Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-a-road-once-traveled.md
@@ -23,6 +23,6 @@ _type: Article
 
 ---
 A Road Once Traveled
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b176471-79bb-4898-9c52-e408b37d87cc.jpg)
 
 This an abstract view of Saluda's historic Green River Bridge built in 1927\. At the time of construction, the 200 foot high, 580 foot long triple-arched expansion bridge was the highest in the eastern United States.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b176471-79bb-4898-9c52-e408b37d87cc.jpg)
