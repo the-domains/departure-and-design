@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Path To Nowhere
-datePublished: '2016-04-29T18:31:15.967Z'
-dateModified: '2016-04-29T18:30:42.115Z'
+datePublished: '2016-04-29T19:49:18.103Z'
+dateModified: '2016-04-29T18:47:21.680Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-path-to-nowhere.md
