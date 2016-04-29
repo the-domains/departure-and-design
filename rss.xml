@@ -4,21 +4,21 @@
         <description><![CDATA[Departure & Design]]></description>
         <link>https://thegrid.ai/departure-and-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 14:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 14:07:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/departure-and-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A Road Once Traveled</p>]]></description>
+            <link>https://thegrid.ai/departure-and-design/a-road-once-traveled/index.html</link>
+            <guid isPermaLink="false">028707c9-1d36-4c2e-8b3f-a5387d1c63d3</guid>
+            <pubDate>Fri, 29 Apr 2016 14:07:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8709871e-c483-473a-b790-be4b7187a998.jpg">]]></description>
             <link>https://thegrid.ai/departure-and-design/welcome-to-view-of-the-world-as-art-all-of-the-images-are-a/index.html</link>
             <guid isPermaLink="false">33a21bce-0e29-4468-b3d1-da037ad8e14f</guid>
             <pubDate>Fri, 29 Apr 2016 14:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>A Road Once Traveled</p>]]></description>
-            <link>https://thegrid.ai/departure-and-design/a-road-once-traveled/index.html</link>
-            <guid isPermaLink="false">028707c9-1d36-4c2e-8b3f-a5387d1c63d3</guid>
-            <pubDate>Fri, 29 Apr 2016 13:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
