@@ -19,10 +19,10 @@ color:
     - '#ffffff'
     - '#0b0b0b'
     - '#929292'
-    - '#575654'
+    - '#3d3d3d'
     - '#cecece'
-  brandStrength: 0.625
+  brandStrength: 0.375
   lightness: 0.8433545082807541
   saturation: 0.5625
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
