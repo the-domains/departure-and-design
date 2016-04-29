@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Walled Summit
-datePublished: '2016-04-29T19:48:38.916Z'
-dateModified: '2016-04-29T19:48:29.726Z'
+datePublished: '2016-04-29T19:49:06.144Z'
+dateModified: '2016-04-29T19:48:43.305Z'
 title: ''
 author: []
 authors: []
