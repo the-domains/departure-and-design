@@ -4,7 +4,7 @@
         <description><![CDATA[Departure & Design]]></description>
         <link>https://thegrid.ai/departure-and-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 19:49:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/departure-and-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,17 +22,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Path To Nowhere</p>]]></description>
+            <link>https://thegrid.ai/departure-and-design/path-to-nowhere/index.html</link>
+            <guid isPermaLink="false">d949f772-8ca3-44fa-968f-26a22a21f7ae</guid>
+            <pubDate>Fri, 29 Apr 2016 19:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da1261e6-67c0-4c66-8644-74e609da6116.jpg">]]></description>
             <link>https://thegrid.ai/departure-and-design/walled-summit/index.html</link>
             <guid isPermaLink="false">f5bdbbdb-1ed9-4b0f-9faa-3c0be2a2becc</guid>
             <pubDate>Fri, 29 Apr 2016 19:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Path To Nowhere</p>]]></description>
-            <link>https://thegrid.ai/departure-and-design/path-to-nowhere/index.html</link>
-            <guid isPermaLink="false">d949f772-8ca3-44fa-968f-26a22a21f7ae</guid>
-            <pubDate>Fri, 29 Apr 2016 18:31:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
