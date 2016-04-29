@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A Road Once Traveled
-datePublished: '2016-04-29T19:49:43.045Z'
-dateModified: '2016-04-29T18:55:21.138Z'
+datePublished: '2016-04-29T19:51:10.793Z'
+dateModified: '2016-04-29T19:49:49.635Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-a-road-once-traveled.md
