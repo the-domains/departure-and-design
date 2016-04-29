@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Welcome to my view of the world as art. All of the images are available as giclees in various sizes depending on your needs. Please contact me to purchase for your home of place of business.
-datePublished: '2016-04-29T13:46:43.918Z'
-dateModified: '2016-04-29T13:46:13.983Z'
+description: Welcome to my view of the world as art. All of the images are available as giclees in various sizes depending on your needs. Please contact me to purchase for your home or place of business.
+datePublished: '2016-04-29T13:50:28.315Z'
+dateModified: '2016-04-29T13:50:25.944Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-welcome-to-my-view-of-the-world-as-art-all-of-the-images-ar.md
@@ -22,4 +22,4 @@ url: welcome-to-my-view-of-the-world-as-art-all-of-the-images-ar/index.html
 _type: Article
 
 ---
-Welcome to my view of the world as art. All of the images are available as giclees in various sizes depending on your needs. Please contact me to purchase for your home of place of business.
+Welcome to my view of the world as art. All of the images are available as giclees in various sizes depending on your needs. Please contact me to purchase for your home or place of business.
